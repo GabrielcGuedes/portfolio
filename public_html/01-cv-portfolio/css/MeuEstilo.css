@@ -57,3 +57,5 @@ p{ line-height: 1.6; font-size: 1.05em; font-weight: 400; color: #969696; }
 
 .intro .social-icons > li > a{background: #c78c5a; color: #fff; }
 .intro .social-icons > li > a:after{background: #1a8900; }
+
+.curso-section{background-color: ghostwhite;}
